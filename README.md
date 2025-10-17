@@ -2,7 +2,7 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-ecr)
 
-**Author:** Nufan Noushad Mohamed  
+**Author:** Nufan  Mohamed  
 **Email:** nufannoushad@gmail.com
 
 ---
